@@ -8,6 +8,6 @@ def kk(nums):
     for ch in z:
             k.append(int(ch))
     print(k)
-nums=[9,9,]
+nums=[9,9,9]
 kk(nums)
             
